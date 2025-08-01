@@ -91,9 +91,10 @@ I'm also familiar with Flask and Django web development frameworks and enjoy bui
 
 <div align="center">
   
-  [![niharkonda55's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niharkonda55&theme=react-dark)](https://github.com/niharkonda55/github-readme-activity-graph)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niharkonda55&theme=react-dark" alt="GitHub Activity Graph" />
 
 </div>
+
 
 ---
 
