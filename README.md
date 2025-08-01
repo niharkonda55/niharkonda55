@@ -7,17 +7,19 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="250" alt="Coding GIF"/>
   
   <!-- Profile Views Counter -->
-  <img src="https://visitcount.itsvg.in/api?id=niharkonda55&icon=0&color=0" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=niharkonda55&label=Profile%20views&color=0e75b6&style=flat" alt="niharkonda55" />
 </div>
 
 ---
 
 ## 💫 About Me
 
-Hi, Iam Nihar currently pursuing B-tech Computer Science Engineering - Cyber Security  At CVR college of Engineering(2022-2026)
-I love problem Solving along with i acquire knowledge under Networks and Cybersecurity field which helped to understand real world incidents and also Iam familiar with Flask, Django Development 
+Hi, I'm Nihar, currently pursuing a B.Tech in Computer Science Engineering with a specialization in Cyber Security at CVR College of Engineering (2022–2026).
+I'm passionate about problem solving and continuously expanding my knowledge in the areas of Networks and Cybersecurity, which has helped me understand real-world security incidents.
+I'm also familiar with Flask and Django web development frameworks and enjoy building secure and scalable applications.
 
-🔭 I'm currently working on **Working On Block Chain project**
+
+🔭 I'm currently **Working On Block Chain project**
 
 📫 How to reach me: **niharkonda55@gmail.com**
 
@@ -58,7 +60,6 @@ I love problem Solving along with i acquire knowledge under Networks and Cyberse
   
   ![niharkonda55's Stats](https://github-readme-stats.vercel.app/api?username=niharkonda55&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
   
-  ![niharkonda55's Streak](https://github-readme-streak-stats.herokuapp.com/?user=niharkonda55&theme=highcontrast&hide_border=false)
   
   ![niharkonda55's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niharkonda55&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -104,6 +105,5 @@ I love problem Solving along with i acquire knowledge under Networks and Cyberse
   
   ---
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
   
 </div>
