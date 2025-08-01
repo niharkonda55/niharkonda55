@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2E96FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Konda%20Nihar%20;CyberSecurity%20Analyst%20%7C%20Flask%20Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2E96FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Konda%20Nihar%20;CyberSecurity%20Analyst%20%7C%20Flask%20Dev" alt="Typing SVG" />
   </h1>
   
   <!-- Animated GIF -->
