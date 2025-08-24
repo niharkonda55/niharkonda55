@@ -4,7 +4,7 @@
   </h1>
   
   <!-- Animated GIF -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="250" alt="Coding GIF"/>
+  <!--img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="250" alt="Coding GIF"-->
   
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=niharkonda55&label=Profile%20views&color=0e75b6&style=flat" alt="niharkonda55" />
